@@ -11,7 +11,6 @@ body {
     font-family: eczar, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-    background-color: coral;
 
 }
 
@@ -145,18 +144,22 @@ h2 {
 
 /* reasons */
 
-#reasons{
+#reasons {
     height: 600px;
-
+    max-width: 95%;
 }
 
-#left-image{
+#reasons-heading {
+    text-decoration: underline;
+    font-weight: 1000;
+    color: rgb(0, 89, 133);
+    text-shadow: 0px 2px 4px rgba(0, 255, 255, 2);
+}
 
-    padding-top: 30px;
+#left-image {
     width: 50%;
     float: left;
-    background-color: darkgreen ;
-
+    
 }
 
 #right-text {
@@ -164,6 +167,36 @@ h2 {
     padding-top: 30px;
     width: 50%;
     float: right;
-    background-color: fuchsia;
+    font-size: larger;
+}
 
+.right-text-heading {
+    width: 90%;
+    text-align: center;
+    line-height: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+#hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+#why-join {
+    text-align: center;
+    margin: 50px;
+    font-size: 280%;
+
+}
+
+#image-container {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    background: url('../images/image1.jpg') no-repeat center center;
+    border-style: groove;
+    border-width: 20px;
+    border-color: rgb(0, 170, 255)
 }
