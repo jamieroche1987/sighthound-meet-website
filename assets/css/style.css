@@ -214,16 +214,17 @@ h2 {
 
 #times {
 
-    background: url('../images/image2.jpg');
+    background: url('../images/image2\ \(2\).jpg');
     height: 400px;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     overflow: hidden;
+
 }
 
-#times div{
+#times div {
 
     color: white;
     background-color: rgba(0, 0, 0, .6);
@@ -236,7 +237,49 @@ h2 {
     font-size: 125%;
 }
 
-#times h2{
+#times h2 {
     color: white;
     font-size: 150%;
+    padding-top: 100px;
+}
+
+#times h3 {
+    text-align: center;
+
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 2%;
+    padding 10px;
+    color: #252525;
+
+}
+
+/* copyright */
+
+.copyright {
+    font-size: 15px;
+    color: #252525;
+    Float: right;
+}
+
+.copyright span {
+    font-size: 15px;
+    color: #252525;
 }
