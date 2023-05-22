@@ -36,15 +36,15 @@ h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    
+
 }
 
 #menu,
 #logo {
     line-height: 75px;
     background-color: rgba(0, 170, 255, .5);
-  
-   
+
+
 
 }
 
@@ -52,9 +52,9 @@ h2 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-  
 
-   
+
+
 }
 
 #menu a {
@@ -145,7 +145,7 @@ h2 {
 
 #box-header {
     text-decoration: underline;
-    
+
 
 
 }
@@ -153,8 +153,8 @@ h2 {
 /* reasons */
 
 #reasons {
-    height: 600px;
-    max-width: 95%;
+    height: 800px;
+    max-width: 100%;
 }
 
 #reasons-heading {
@@ -167,7 +167,7 @@ h2 {
 #left-image {
     width: 50%;
     float: left;
-    
+
 }
 
 #right-text {
@@ -196,7 +196,7 @@ h2 {
     text-align: center;
     margin: 50px;
     font-size: 280%;
-   
+
 
 }
 
@@ -208,4 +208,17 @@ h2 {
     border-style: groove;
     border-width: 20px;
     border-color: rgb(0, 170, 255)
+}
+
+/* event times*/
+
+#times {
+
+    background: url('../images/image2.jpg');
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
 }
