@@ -36,11 +36,15 @@ h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    
 }
 
 #menu,
 #logo {
     line-height: 75px;
+    background-color: rgba(0, 170, 255, .5);
+  
+   
 
 }
 
@@ -48,6 +52,9 @@ h2 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+  
+
+   
 }
 
 #menu a {
@@ -138,6 +145,7 @@ h2 {
 
 #box-header {
     text-decoration: underline;
+    
 
 
 }
@@ -188,6 +196,7 @@ h2 {
     text-align: center;
     margin: 50px;
     font-size: 280%;
+   
 
 }
 
