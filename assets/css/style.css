@@ -274,12 +274,30 @@ footer {
 /* copyright */
 
 .copyright {
-    font-size: 15px;
+    font-size: 20px;
     color: #252525;
     Float: right;
 }
 
 .copyright span {
-    font-size: 15px;
+    font-size: 20px;
     color: #252525;
+}
+
+/* Gallery*/
+
+#photos{
+    padding-top: 50px;
+    clear:both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+
+
+}
+
+#photos img{
+
+    width:100%;
+    
 }
