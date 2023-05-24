@@ -266,7 +266,7 @@ footer {
 .social-networks i {
     font-size: 200%;
     margin: 2%;
-    padding 10px;
+    padding: 10px;
     color: #252525;
 
 }
@@ -287,7 +287,6 @@ footer {
 /* Gallery*/
 
 #photos{
-    padding-top: 50px;
     clear:both;
     line-height: 0;
     column-count: 2;
@@ -301,3 +300,32 @@ footer {
     width:100%;
     
 }
+
+/* Media queries */
+
+/* For larger to medium screens size from 1300px wide and down */
+@media screen and (max-width: 1300px) {
+    #reasons{
+        width: 65%;
+        height: 1300px;
+        margin: 0 auto;
+    }
+
+    #why-join {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-image,
+    #right-text {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+
+    hr {
+        display: none;
+    }
+}
+
