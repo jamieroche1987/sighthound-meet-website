@@ -207,7 +207,7 @@ h2 {
     background: url('../images/image1.jpg') no-repeat center center;
     border-style: groove;
     border-width: 20px;
-    border-color: rgb(0, 170, 255)
+    border-color: rgb(0, 170, 255);
 }
 
 /* event times*/
@@ -329,3 +329,14 @@ footer {
     }
 }
 
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        line-height: 25px;
+    }
+}
