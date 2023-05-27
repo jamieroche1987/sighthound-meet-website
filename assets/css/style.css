@@ -157,8 +157,6 @@ a {
 
 /* reasons */
 #reasons {
-    /* height: 800px; */
-    /* max-width: 100%; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -318,10 +316,10 @@ footer {
 /* Form */
 
 .form-section {
+    margin-top: 20px;
     clear: left;
     padding: 50px;
-    background: url("../images/image7.jpg");
-    background-size: cover;
+    background: url("../images/image16.jpg") background-size: cover;
     background-position: center;
     height: 800px;
 }
@@ -387,3 +385,129 @@ footer {
 #thank-you p {
     font-size: 120%;
 }
+
+/* media queries*/
+
+@media screen and (max-width: 870px) {
+    #logo {
+        font-size: 200%;
+    }
+
+    @media screen and (max-width: 800px) {
+        #cover-text {
+            display: none;
+        }
+
+        #photos {
+            column-count: 1;
+        }
+    }
+
+    @media screen and (max-width: 700px) {
+        #logo {
+            font-size: 160%;
+        }
+    }
+
+    @media screen and (max-width: 620px) {
+        #logo {
+            font-size: 120%;
+        }
+
+        #image-container {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 500px) {
+        #logo {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-direction: row;
+        }
+    }
+
+    @media screen and (max-width: 450px) {
+        #left-image {
+            width: 50%;
+            float: left;
+            min-width: 400px;
+        }
+
+        #logo {
+            font-size: 95%;
+        }
+    }
+
+    @media screen and (max-width: 390px) {
+        #logo {
+            font-size: 85%;
+        }
+    }
+
+    @media screen and (max-width: 870px) {
+        #logo {
+            font-size: 200%;
+        }
+
+        @media screen and (max-width: 800px) {
+            #cover-text {
+                display: none;
+            }
+
+            #photos {
+                column-count: 1;
+            }
+        }
+
+        @media screen and (max-width: 700px) {
+            #logo {
+                font-size: 160%;
+            }
+        }
+
+        @media screen and (max-width: 620px) {
+            #logo {
+                font-size: 120%;
+            }
+
+            #image-container {
+                display: none;
+            }
+        }
+
+        @media screen and (max-width: 500px) {
+            #logo {
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                flex-direction: row;
+            }
+        }
+
+        @media screen and (max-width: 450px) {
+            #left-image {
+                width: 50%;
+                float: left;
+                min-width: 400px;
+            }
+
+            #logo {
+                font-size: 95%;
+            }
+        }
+
+        @media screen and (max-width: 390px) {
+            #logo {
+                font-size: 85%;
+            }
+
+            #times h2 {
+                font-size: 70%;
+
+            }
+
+            #times h3 {
+                font-size: 60%;
+            }
