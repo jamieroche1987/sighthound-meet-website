@@ -12,7 +12,7 @@ body {
     font-family: eczar, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-   
+
 }
 
 /* headings and logo */
@@ -122,7 +122,7 @@ h2 {
 
 #cover-text {
 
-    font-size: 95%;
+    font-size: 90%;
     font-family: ubuntu, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -300,7 +300,7 @@ footer {
 #photos img {
 
     width: 100%;
-
+    padding: 5px;
 }
 
 /* Form */
@@ -311,7 +311,7 @@ footer {
     background: url("../images/image7.jpg");
     background-size: cover;
     background-position: center;
-    height:800px;
+    height: 800px;
 }
 
 
@@ -322,7 +322,7 @@ footer {
     max-width: 350px;
     position: absolute;
     left: 70%;
-    padding: 25px;
+    padding: 20px;
 }
 
 
@@ -372,6 +372,6 @@ footer {
     box-sizing: border-box;
 }
 
-#thank-you p{
+#thank-you p {
     font-size: 120%;
 }
