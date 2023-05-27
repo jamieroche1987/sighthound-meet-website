@@ -137,10 +137,10 @@ a {
 
     padding-top: 20px;
     padding-left: 10px;
-    background-color: rgba(0, 170, 255, .5);
+    background-color: rgba(0, 170, 255, .8);
 
-    top: 30px;
-    right: 200px;
+    bottom: 80px;
+    right: 400px;
 
     position: absolute;
 
@@ -319,9 +319,8 @@ footer {
     margin-top: 20px;
     clear: left;
     padding: 50px;
-    background: url("../images/image16.jpg") background-size: cover;
-    background-position: center;
-    height: 800px;
+    background: url("../images/image16.jpg") no-repeat center center;
+    height: 600px;
 }
 
 
@@ -438,76 +437,26 @@ footer {
         #logo {
             font-size: 95%;
         }
+
+        #times h2 {
+            font-size: 70%;
+        }
+
+        #times h3 {
+            font-size: 60%;
+        }
     }
 
     @media screen and (max-width: 390px) {
         #logo {
             font-size: 85%;
         }
-    }
 
-    @media screen and (max-width: 870px) {
-        #logo {
-            font-size: 200%;
+        #times h2 {
+            font-size: 70%;
+
         }
 
-        @media screen and (max-width: 800px) {
-            #cover-text {
-                display: none;
-            }
-
-            #photos {
-                column-count: 1;
-            }
+        #times h3 {
+            font-size: 60%;
         }
-
-        @media screen and (max-width: 700px) {
-            #logo {
-                font-size: 160%;
-            }
-        }
-
-        @media screen and (max-width: 620px) {
-            #logo {
-                font-size: 120%;
-            }
-
-            #image-container {
-                display: none;
-            }
-        }
-
-        @media screen and (max-width: 500px) {
-            #logo {
-                display: flex;
-                justify-content: space-around;
-                align-items: center;
-                flex-direction: row;
-            }
-        }
-
-        @media screen and (max-width: 450px) {
-            #left-image {
-                width: 50%;
-                float: left;
-                min-width: 400px;
-            }
-
-            #logo {
-                font-size: 95%;
-            }
-        }
-
-        @media screen and (max-width: 390px) {
-            #logo {
-                font-size: 85%;
-            }
-
-            #times h2 {
-                font-size: 70%;
-
-            }
-
-            #times h3 {
-                font-size: 60%;
-            }
