@@ -288,6 +288,7 @@ footer {
 /* Gallery*/
 
 #photos {
+    margin-top: 20px;
     clear: both;
     line-height: 0;
     column-count: 2;
@@ -369,4 +370,8 @@ footer {
     padding: 250px;
     text-align: center;
     box-sizing: border-box;
+}
+
+#thank-you p{
+    font-size: 120%;
 }
