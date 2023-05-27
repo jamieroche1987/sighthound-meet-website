@@ -214,13 +214,14 @@ h2 {
 
 #times {
 
-    background: url('../images/image2\ \(2\).jpg');
+    background: url('../images/image2.jpg');
     height: 400px;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     overflow: hidden;
+
 
 }
 
@@ -309,7 +310,7 @@ footer {
     background: url("../images/image7.jpg");
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height:800px;
 }
 
 
@@ -362,3 +363,10 @@ footer {
 
 /* thank you page */
 
+#thank-you {
+    margin: 0 auto;
+    border: 20px;
+    padding: 250px;
+    text-align: center;
+    box-sizing: border-box;
+}
