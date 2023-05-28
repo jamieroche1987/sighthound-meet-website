@@ -323,15 +323,11 @@ footer {
     height: 600px;
 }
 
-
 .signup-form {
-    margin: 150px 10% 0 0;
     color: #252525;
-    background-color: rgba(0, 170, 255, .9);
-    max-width: 350px;
-    position: absolute;
-    left: 70%;
+    background-color: rgba(0, 170, 255, .96);
     padding: 20px;
+
 }
 
 
@@ -374,9 +370,11 @@ footer {
 /* thank you page */
 
 #thank-you {
+
     margin: 0 auto;
     border: 20px;
-    padding: 250px;
+    padding: 80px;
+    padding-top: 40px;
     text-align: center;
     box-sizing: border-box;
 }
@@ -451,23 +449,23 @@ footer {
             margin-top: 70px;
             clear: left;
             height: 600px;
-    }
-
-    @media screen and (max-width: 390px) {
-        #logo {
-            font-size: 85%;
         }
 
-        #times h2 {
-            font-size: 70%;
+        @media screen and (max-width: 390px) {
+            #logo {
+                font-size: 85%;
+            }
 
-        }
+            #times h2 {
+                font-size: 70%;
 
-        #times h3 {
-            font-size: 60%;
-        }
+            }
 
-     .form-section {
-         margin-top: 70px;
-         clear: left;
-         height: 600px;
+            #times h3 {
+                font-size: 60%;
+            }
+
+            .form-section {
+                margin-top: 70px;
+                clear: left;
+                height: 600px;
