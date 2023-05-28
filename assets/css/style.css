@@ -370,11 +370,9 @@ footer {
 /* thank you page */
 
 #thank-you {
-
     margin: 0 auto;
     border: 20px;
     padding: 80px;
-    padding-top: 40px;
     text-align: center;
     box-sizing: border-box;
 }
@@ -390,82 +388,99 @@ footer {
         font-size: 200%;
     }
 
-    @media screen and (max-width: 800px) {
-        #cover-text {
-            display: none;
-        }
+    .form-section {
+        margin-top: 40px;
+        background: none;
+        width: 100%;
+        margin: 10px;
 
-        #photos {
-            column-count: 1;
-        }
     }
 
-    @media screen and (max-width: 700px) {
-        #logo {
-            font-size: 160%;
-        }
+    .signup-form h2 {
+        font-size: 100%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #cover-text {
+        display: none;
     }
 
-    @media screen and (max-width: 620px) {
-        #logo {
-            font-size: 120%;
-        }
+    #photos {
+        column-count: 1;
+    }
+}
 
-        #image-container {
-            display: none;
-        }
+@media screen and (max-width: 700px) {
+    #logo {
+        font-size: 160%;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    #logo {
+        font-size: 120%;
     }
 
-    @media screen and (max-width: 500px) {
-        #logo {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            flex-direction: row;
-        }
+    #image-container {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #logo {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #left-image {
+        width: 50%;
+        float: left;
+        min-width: 400px;
     }
 
-    @media screen and (max-width: 450px) {
-        #left-image {
-            width: 50%;
-            float: left;
-            min-width: 400px;
-        }
+    #logo {
+        font-size: 95%;
+    }
 
-        #logo {
-            font-size: 95%;
-        }
+    #times h2 {
+        font-size: 70%;
+    }
 
-        #times h2 {
-            font-size: 70%;
-        }
-
-        #times h3 {
-            font-size: 60%;
-        }
+    #times h3 {
+        font-size: 60%;
+    }
 
 
-        .form-section {
-            margin-top: 70px;
-            clear: left;
-            height: 600px;
-        }
+    .form-section {
+        margin-top: 70px;
+        clear: left;
+        height: 600px;
+    }
+}
 
-        @media screen and (max-width: 390px) {
-            #logo {
-                font-size: 85%;
-            }
+@media screen and (max-width: 390px) {
+    #logo {
+        font-size: 85%;
+    }
 
-            #times h2 {
-                font-size: 70%;
+    #times h2 {
+        font-size: 70%;
 
-            }
+    }
 
-            #times h3 {
-                font-size: 60%;
-            }
+    #times h3 {
+        font-size: 60%;
+    }
 
-            .form-section {
-                margin-top: 70px;
-                clear: left;
-                height: 600px;
+    .form-section {
+        margin-top: 70px;
+        clear: left;
+        height: 600px;
+    }
+}
