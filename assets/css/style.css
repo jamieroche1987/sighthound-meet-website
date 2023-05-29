@@ -74,7 +74,7 @@ a {
 }
 
 .active {
-    border-bottom: 2 px solid #3a3a3a;
+    border-bottom: 2px solid #3a3a3a;
 }
 
 /* hero image and cover text */
@@ -163,7 +163,7 @@ a {
     flex-direction: column;
 }
 
-#reasons-heading {
+.reasons-heading {
     text-decoration: underline;
     font-weight: 1000;
     color: rgb(0, 89, 133);

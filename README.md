@@ -6,15 +6,15 @@
 
 Sighthounds go walkabout is a website designed to inform sighthound owners of a walk that happens monthly
 
-* [Here is a link to the final project]()
+* 
 
 ## FINAL DESIGN
 
-* [Final project image home page]( )
+
 
 ## INITIAL IDEA CONCEPT
 
-My initial idea for the project was to create an informative website about a sighthound monthly walk. My target audience is anyone who is the owner of a sighthound. I wanted to make the website easy to navigate around while also making the images speak to the user
+My initial idea for the project was to create an informative website about a sighthound monthly walk. My target audience is anyone who is the owner of a sighthound in surrey and the surrounding areas. I wanted to make the website easy to navigate around while also making the images speak to the user
 
 * The Features I wanted the project to have are:
 
@@ -23,61 +23,17 @@ My initial idea for the project was to create an informative website about a sig
   * Look appealing with images
   * Easy sign up form
 
-#  
-
-## CONTENTS
-
-- [PORTFOLIO PROJECT - 1](#portfolio-project---1)
-- [SIGHTHOUNDS GO WALKABOUT](#sighthounds-go-walkabout)
-  - [SITE PURPOSE](#site-purpose)
-  - [FINAL DESIGN](#final-design)
-  - [INITIAL IDEA CONCEPT](#initial-idea-concept)
-- [](#)
-  - [CONTENTS](#contents)
-- [](#-1)
-- [](#-2)
-- [UX/UI](#uxui)
-  - [USER STORIES](#user-stories)
-  - [WIREFRAMES](#wireframes)
-  - [FEATURES](#features)
-  - [DESIGN](#design)
-- [](#-3)
-- [TESTING](#testing)
-  - [DEVICES](#devices)
-  - [Validators](#validators)
-  - [Lighthouse](#lighthouse)
-  - [Home](#home)
-  - [Gallery](#gallery)
-  - [Contact](#contact)
-  - [Thankyou](#thankyou)
-  - [Accessibility](#accessibility)
-  - [SOLVED BUGS AND ERRORS](#solved-bugs-and-errors)
-  - [UNSOLVED BUGS OR ERRORS](#unsolved-bugs-or-errors)
-  - [FUNCTIONALITY](#functionality)
-- [](#-4)
-- [TECHNOLOGIES USED](#technologies-used)
-  - [PROGRAMS USED](#programs-used)
-- [](#-5)
-- [DEPLOYMENT](#deployment)
-  - [REMOTE DEPLOYMENT](#remote-deployment)
-  - [CREDITS AND REFERENCES](#credits-and-references)
-    - [IMAGES AND INFORMATION](#images-and-information)
-  - [ACKNOWLEDGEMENTS](#acknowledgements)
-      - [RETURN TO THE TOP](#return-to-the-top)
-
-#  
-
 #
 
 # UX/UI
 
 * The site should be simple to navigate
-* The site should be easy to read, images should be clear without stretching or squashing
+* The site should be easy to read, images should be clear without distorting or stretching
 * The site should have information about the future sighthound meet up walks
 
 Site Goals:
 
-* To provide users with an easy to understand and easy to navigate website
+* To provide users with an easy read website with clear navigational links 
 * To provide users with enough information to return to enter their participation in future walks.
 * To make the site easily accessible
 
@@ -90,17 +46,17 @@ Site Goals:
 
 ## WIREFRAMES
 
-* Wireframes for mobile and desktop can be viewed here:
+* Wireframes for mobile and desktop can be viewed here: (img)
 
 ## FEATURES
 
 * The site consists of:
-  * 3 main pages, `HOME,GALLERY, SIGN UP!` and an additional `THANKYOU` page
+  * 3 main pages, `HOME,GALLERY,SIGN UP!` and an additional `THANKYOU` page
   * Each page will have the same body layout, `HEADER (TITLE)`, `NAVBAR`, `MAIN CONTENT (TEXT AND IMAGES)` and `FOOTER (SOCIAL MEDIA ICONS/LINKS, COPYRIGHT)`
 * Navigation bar:
-* img
+  [navbar](navbar.png)
 * Footer:
-* img
+* [footer](footer.png)
 * Layout and content:
   * The Home page will have a hero image with text. It will then have a image with text stating reasons why to join the meet up.
   * The Gallery will have multiple images from the previous sighthound walks that have taken place
@@ -110,20 +66,19 @@ Site Goals:
 * Hover effect on the nav bar:
   * Indicates to the user the location of the mouse whilst navigating the menu
   * A underline helps the user to see which page they are going to select.
-  * img
 * Sign up form:
   * Form validation requests the user to input the correct information in the input fields,
       This avoids the user sending illegible text/email.
-  * img
+  * [signupform](signupform.png)
 
 ## DESIGN
 
 * Color Scheme:
   * The color scheme used was a very simple one. Keeping the background as white helps to highlight the areas where i wish to draw the users attention to on each page.
   * I have a used a shade of blue with a different opacity depending on how visible i want the image to be behind the text boxes or form.
+  * [formblue] (formblue.png)
   * I have also used a shade of blue for the header on each page.
-  
-img
+  * [headerblue](headerblue.png)
 
 
 * IMAGES
@@ -175,7 +130,7 @@ img
 
 ## Validators
 
-* I ran all of my code through css-validator and html-validator, and I was given multiple errors of `` and ``
+* I ran all of my code through css-validator and html-validator, and I was given multiple errors of `Duplicate ID`
 * I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot]() and [HTML screenshot]()
 * There we also 5 warnings that still exist in CSS code. Although they are imported style sheets and vendor extensions which are needed for my code to work. [Warnings found here]()
 
@@ -190,12 +145,11 @@ img
 
 !img
 
-
 ## Gallery
 
 !img
 
-## Contact
+## Sign up!
 
 !img
 
@@ -240,11 +194,19 @@ img
   * Used to store repositories, files and images pushed from gitpod
 * FONTAWESOME
   * Used for the social media links in the footer of each page
+  * Used for the header on each page
+  * Used on the thank you message on the thank you page
+  * Used on the form
+  * Used on the reasons section header and sub headings
+  
 * CHROME Developer tools
   * For checking compatibilty, troubleshooting and editing code
 * Am I Responsive
   * Used to test responsiveness of the website at different screen sizes
-
+* TINY PNG
+  * Used to compress my images down
+* BALSAMIQ
+  * Used to create the wireframes
 
 #
 
@@ -268,14 +230,15 @@ img
 * These commands were used for version control during project:
 
   * git add `example filename` - to add files before committing
-  * git commit -m `"example message"` - to commit changes to the local repository
+  * git commit -m `example message` - to commit changes to the local repository
   * git push - to push all committed changes to the GitHub repository
 
-## CREDITS AND REFERENCES
+## CREDITS
 
 * 
 
-### IMAGES AND INFORMATION
+### IMAGES
+
 * 
 
 ## ACKNOWLEDGEMENTS
