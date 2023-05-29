@@ -10,11 +10,11 @@ Sighthounds go walkabout is a website designed to inform sighthound owners of a 
 
 ## FINAL DESIGN
 
-
+[finaldesign](finaldesign.png)
 
 ## INITIAL IDEA CONCEPT
 
-My initial idea for the project was to create an informative website about a sighthound monthly walk. My target audience is anyone who is the owner of a sighthound in surrey and the surrounding areas. I wanted to make the website easy to navigate around while also making the images speak to the user
+My initial idea for the project was to create an informative website about a sighthound monthly walk. My target audience is anyone who is the owner of a sighthound in Surrey and the surrounding areas. I wanted to make the website easy to navigate around while also making the images speak to the user
 
 * The Features I wanted the project to have are:
 
@@ -143,7 +143,7 @@ Site Goals:
 
 ## Home
 
-!img
+![home page lighthouse](homepagelighthouse.png)
 
 ## Gallery
 
@@ -151,11 +151,11 @@ Site Goals:
 
 ## Sign up!
 
-!img
+![sign up lighthouse](signuplighthouse.png)
 
 ## Thankyou
 
-!img
+![thank you lighthouse](thankyoulighthouse.png)
 
 ## Accessibility
 
