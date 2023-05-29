@@ -160,7 +160,7 @@ Site Goals:
 ## Accessibility
 
 * Each page has been through wave.webaim.org for accessibility testing.
-  * Found here: 
+  * Found here: https://wave.webaim.org/report#/https://jamieroche1987.github.io/sighthound-meet-website/index.html
 
 ## SOLVED BUGS AND ERRORS
 
@@ -168,7 +168,7 @@ Site Goals:
 
 ## UNSOLVED BUGS OR ERRORS
 
-* 
+* There are no errors reporting on the my site
 
 ## FUNCTIONALITY
 
