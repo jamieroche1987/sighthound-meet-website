@@ -131,8 +131,7 @@ Site Goals:
 ## Validators
 
 * I ran all of my code through css-validator and html-validator, and I was given multiple errors of `Duplicate ID`
-* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](cssvalidation.png) and [HTML screenshot]()
-* There we also 5 warnings that still exist in CSS code. Although they are imported style sheets and vendor extensions which are needed for my code to work. [Warnings found here]()
+* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](cssvalidation.png) and [HTML screenshot](htmlchecker.png)
 
 * See [HERE]() for the full report on CSS Validator
 * See [HERE]() for the home page report on HTML Validator
