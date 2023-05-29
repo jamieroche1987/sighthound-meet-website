@@ -483,4 +483,13 @@ footer {
         clear: left;
         height: 600px;
     }
-}
+
+    @media screen and (max-width: 320px) {
+        #logo {
+            font-size: 75%;
+        }
+
+        #menu {
+            font-size: 90%;
+        }
+    }
