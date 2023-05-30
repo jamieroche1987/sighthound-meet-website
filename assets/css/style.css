@@ -1,25 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Eczar:wght@500&family=Ubuntu:wght@300;400&display=swap');
 
+/* ----------------------------------------------Global override styles*/
 * {
     margin: 0;
     padding: 0;
-    border: none;
     box-sizing: border-box;
 }
 
+/* ----------------------------------------------Main body styles */
 body {
-
     font-family: eczar, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-
 }
 
-/* headings and logo */
+a {
+    text-decoration: none;
+}
 
+/* ----------------------------------------------Headings and logo */
 h1,
 h2 {
-
     font-family: ubuntu, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -33,16 +34,10 @@ h2 {
     flex-direction: row;
 }
 
-a {
-    text-decoration: none;
-}
-
-/* navigation links*/
-
+/* ----------------------------------------------Navigation links*/
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-
 }
 
 #menu,
@@ -56,48 +51,34 @@ a {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-
-
-
 }
 
 #menu a {
-
     text-decoration: none;
     color: inherit;
-
 }
 
 #menu a:hover {
-
     border-bottom: 2px solid #3a3a3a;
+    border-radius: 0 15%;
 }
 
 .active {
     border-bottom: 2px solid #3a3a3a;
+    border-radius: 15% 0;
 }
 
-/* hero image and cover text */
-
-
+/* ----------------------------------------------Hero image and cover text */
 #hero-image {
-
     padding-bottom: 50px;
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
-
-
-
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
-
 }
-
-
-
 
 #hero-outer {
     padding-bottom: 50px;
@@ -110,11 +91,9 @@ a {
 #cover-text,
 #cover-text h2 {
     color: #252525;
-
 }
 
-/* creates the level of zoom for hero image */
-
+/* ----------------------------------------------Creates the level of zoom for hero image */
 @keyframes hero-zoom {
     from {
         transform: scale(1);
@@ -126,36 +105,25 @@ a {
 }
 
 #cover-text {
-
     font-size: 90%;
     font-family: ubuntu, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-
     height: 170px;
     width: 300px;
-
     padding-top: 20px;
     padding-left: 10px;
     background-color: rgba(0, 170, 255, .8);
-
     bottom: 80px;
     right: 400px;
-
     position: absolute;
-
-
 }
 
 #box-header {
     text-decoration: underline;
-
-
-
 }
 
-
-/* reasons */
+/* ----------------------------------------------Reasons section */
 #reasons {
     display: flex;
     justify-content: center;
@@ -164,29 +132,20 @@ a {
 }
 
 .reasons-heading {
-    text-decoration: underline;
     font-weight: 1000;
     color: rgb(0, 89, 133);
     text-shadow: 0px 2px 4px rgba(0, 255, 255, 2);
     line-height: normal;
 }
 
-#left-image {
-    width: 50%;
-    float: left;
-
-}
-
 #right-text {
     padding-top: 25px;
-    width: 80%;
-    float: right;
+    width: 100%;
     align-items: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
-
 
 .right-text-heading {
     width: 80%;
@@ -205,9 +164,7 @@ a {
 #why-join {
     text-align: center;
     margin: 50px;
-    font-size: 280%;
-
-
+    font-size: 250%;
 }
 
 #image-container {
@@ -220,10 +177,8 @@ a {
     border-color: rgb(0, 170, 255);
 }
 
-/* event times*/
-
+/* ----------------------------------------------Event times*/
 #times {
-
     background: url('../images/image2.jpg');
     height: 400px;
     width: 100%;
@@ -231,12 +186,9 @@ a {
     background-position: center;
     background-size: cover;
     overflow: hidden;
-
-
 }
 
 #times div {
-
     color: white;
     background-color: rgba(0, 0, 0, .6);
     width: 33.3%;
@@ -256,14 +208,11 @@ a {
 
 #times h3 {
     text-align: center;
-
 }
 
-/* footer */
-
+/* ----------------------------------------------Footer and social links */
 footer {
     height: 150px;
-
 }
 
 .social-networks {
@@ -279,15 +228,13 @@ footer {
     margin: 2%;
     padding: 10px;
     color: #252525;
-
 }
 
-/* copyright */
-
+/* ----------------------------------------------Copyright styles */
 .copyright {
-    font-size: 20px;
+    font-size: 15px;
     color: #252525;
-    Float: right;
+    text-align: center;
 }
 
 .copyright span {
@@ -295,34 +242,27 @@ footer {
     color: #252525;
 }
 
-/* Gallery*/
-
+/* ----------------------------------------------Gallery */
 #photos {
     margin-top: 20px;
     clear: both;
     line-height: 0;
     column-count: 2;
     column-gap: 0;
-
-
 }
 
 #photos img {
-
     width: 100%;
     padding: 5px;
 }
 
 .video {
-
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
-/* Form */
-
+/* ----------------------------------------------Signup form */
 .form-section {
     margin-top: 70px;
     clear: left;
@@ -335,9 +275,7 @@ footer {
     color: #252525;
     background-color: rgba(0, 170, 255, .96);
     padding: 20px;
-
 }
-
 
 .text-input {
     background: transparent;
@@ -347,8 +285,6 @@ footer {
     margin: 5px 0 20px 0;
     border: 1px solid #3a3a3a;
     border-radius: 2px;
-    padding-left: 5px;
-
 }
 
 .text-input:hover {
@@ -374,11 +310,9 @@ footer {
 .signup-form h2 {
     color: #252525;
     margin-bottom: 20px;
-
 }
 
-/* thank you page */
-
+/* ----------------------------------------------Thank you page */
 #thank-you {
     margin: 0 auto;
     border: 20px;
@@ -391,15 +325,12 @@ footer {
     font-size: 120%;
 }
 
-/* media queries*/
-
+/* ----------------------------------------------Media queries 320 - 870px */
 @media screen and (max-width: 1200px) {
-
     #left-image {
         width: 100%;
     }
 }
-
 
 @media screen and (max-width: 870px) {
     #logo {
@@ -411,7 +342,6 @@ footer {
         background: none;
         width: 100%;
         margin: 10px;
-
     }
 
     .signup-form h2 {
@@ -434,6 +364,10 @@ footer {
     #logo {
         font-size: 160%;
     }
+
+    #why-join {
+        font-size: 210%;
+    }
 }
 
 @media screen and (max-width: 620px) {
@@ -443,6 +377,10 @@ footer {
 
     #image-container {
         display: none;
+    }
+
+    #why-join {
+        font-size: 180%;
     }
 }
 
@@ -474,7 +412,6 @@ footer {
         font-size: 60%;
     }
 
-
     .form-section {
         margin-top: 70px;
         clear: left;
@@ -489,7 +426,6 @@ footer {
 
     #times h2 {
         font-size: 70%;
-
     }
 
     #times h3 {
@@ -504,14 +440,11 @@ footer {
 }
 
 @media screen and (max-width: 320px) {
-
     #logo {
-        font-size: 75%;
+        font-size: 70%;
     }
 
     #menu {
-        font-size: 90%;
-        letter-spacing: 3px;
+        font-size: 80%;
     }
-
 }
