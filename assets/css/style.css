@@ -339,6 +339,8 @@ footer {
     margin: 5px 0 20px 0;
     border: 1px solid #3a3a3a;
     border-radius: 2px;
+    padding-left: 5px;
+
 }
 
 .text-input:hover {
@@ -385,7 +387,7 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
-    #left-image: {
+    #left-image {
         width: 100%;
     }
 }
