@@ -313,6 +313,14 @@ footer {
     padding: 5px;
 }
 
+.video {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
 /* Form */
 
 .form-section {
