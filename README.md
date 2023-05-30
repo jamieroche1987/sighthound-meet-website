@@ -51,8 +51,8 @@ Site Goals:
 ## FEATURES
 
 * The site consists of:
-  * 3 main pages, `HOME,GALLERY,SIGN UP!` and an additional `THANKYOU` page
-  * Each page will have the same body layout, `HEADER (TITLE)`, `NAVBAR`, `MAIN CONTENT (TEXT AND IMAGES)` and `FOOTER (SOCIAL MEDIA ICONS/LINKS, COPYRIGHT)`
+  * 3 main pages, HOME,GALLERY,SIGN UP! and an additional THANKYOU page
+  * Each page will have the same body layout, HEADER (TITLE), NAVBAR, MAIN CONTENT (TEXT AND IMAGES) and FOOTER (SOCIAL MEDIA ICONS/LINKS, COPYRIGHT)
 * Navigation bar:
   [navbar](navbar.png)
 * Footer:
@@ -84,7 +84,7 @@ Site Goals:
 * IMAGES
   * I sourced several images for the home page, gallery and sign up page
   * There are a total of 16 images across the site, including one hero image and background image.
-  * All images have been compressed through `Tinypng.com`
+  * All images have been compressed through Tinypng.com
 
 
 * TYPOGRAPHY
@@ -96,15 +96,15 @@ Site Goals:
 
 * The site has been tested through multiple tests on each individual page.
 
-* `As a user, I want to easily understand the main purpose of the site`:
+* As a user, I want to easily understand the main purpose of the site:
   * Upon loading the home page, you will see the header stating what the webpage is about. You will also see that the hero image with a text box that indicates that this is a sighthound monthly walk page.
-* `As a user, I want to be able to navigate the site with an easy to see and read navbar`:
+* As a user, I want to be able to navigate the site with an easy to see and read navbar:
   * This was fulfilled with clear to read wording, and an underline indicating which page you are about to select and view.
-* `As a user, I want the site to infrom me of future walks`:
+* As a user, I want the site to infrom me of future walks:
   * I have achieved this by setting an informative bar at the bottom of the home page with the locations, times and dates for the next 3 monthly walks.
-* `As a user, I want to see images related to the subject`
-  * I included a `Gallery` section which includes multiple varied images
-  * On the `Home` page, I included a hero image as well as one small image above the reasons to join the walk
+* As a user, I want to see images related to the subject
+  * I included a `Gallery section which includes multiple varied images
+  * On the Home page, I included a hero image as well as one small image above the reasons to join the walk
 
 ## DEVICES
 
@@ -130,7 +130,7 @@ Site Goals:
 
 ## Validators
 
-* I ran all of my code through css-validator and html-validator, and I was given multiple errors of `Duplicate ID`
+* I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
 * I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](cssvalidation.png) and [HTML screenshot](htmlchecker.png)
 
 * See [HERE]() for the full report on CSS Validator
@@ -154,7 +154,7 @@ Site Goals:
 
 ## Thankyou
 
-![thank you lighthouse](thankyoulighthouse.png)
+
 
 ## Accessibility
 
@@ -196,8 +196,7 @@ Site Goals:
   * Used for the header on each page
   * Used on the thank you message on the thank you page
   * Used on the form
-  * Used on the reasons section header and sub headings
-  
+  * Used on the reasons section header and sub headings 
 * CHROME Developer tools
   * For checking compatibilty, troubleshooting and editing code
 * Am I Responsive
@@ -216,32 +215,41 @@ Site Goals:
 
 * This site was deployed using GitHub Pages with the following the steps:
 
-1. Click on the `Settings` icon at the top of page in the navigation bar
-2. Scroll down until you see `Github Pages`
-3. There will be a message box saying "Check it out here" Click on the link to take you to the next page
-4. Here you will be greated with a form, Choose the repository `Sighthound-meet-up`
-5. Choose the branch in the drop down box, in this case `MAIN`
-6. Choose the directory in the next drop down box, in this case `Root`
-7. Then click `Save`
-8. It may take a few moments for the site to publish, but once live, the box at the top of the page with the site name will turn green and have a `Green` tick to the left of the link to the live site
-9. Another way to find the live site is to navigate to settings, on the left menu click on `pages` and this will get you to the same point.
+1. Click on the SETTINGS icon at the top of page in the navigation bar
+2. Scroll down until you see GITHUB PAGES
+3. There will be a message box saying "CHECK IT OUT HERE" Click on the link to take you to the next page
+4. Here you will be greated with a form, Choose the repository SIGHTHOUND-MEET-WEBSITE
+5. Choose the branch in the drop down box, in this case MAIN
+6. Choose the directory in the next drop down box, in this case ROOT
+7. Then click SAVE
+8. It may take a few moments for the site to publish, but once live, the box at the top of the page with the site name will turn green and have a Green tick to the left of the link to the live site
+9. Another way to find the live site is to navigate to settings, on the left menu click on pages and this will get you to the same point.
 
 * These commands were used for version control during project:
 
-  * git add `example filename` - to add files before committing
-  * git commit -m `example message` - to commit changes to the local repository
+  * git add "example filename" - to add files before committing
+  * git commit -m "example message" - to commit changes to the local repository
   * git push - to push all committed changes to the GitHub repository
 
 ## CREDITS
 
-* 
+* Google Fonts to source and import all fonts.
+* Font Awesome for the icons in the footer and throughout the site.
+* W3schools
+* Stack overflow
+* Code Institute's Love Running walkthrough project 
 
 ### IMAGES
 
-* 
+* 14 images have been taken from the Surrey Whippet Walk Facebook page.
+* The hero image was taken from Google images
+* The times background image was also sourced from Google images
 
 ## ACKNOWLEDGEMENTS
 
-* 
+* My partner who has taken time look and advice me on the areas that need improving or amending.
+* My mentor Alex for taking his time helping and guiding me in the right direction with his feedback and suggestions.
+* The Code Institute Slack community who have been there to help and give suggestions and feedback.
 
-#### RETURN TO THE [TOP](#sighthound-go-walkabouts)
+
+

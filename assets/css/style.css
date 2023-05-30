@@ -383,6 +383,14 @@ footer {
 
 /* media queries*/
 
+@media screen and (max-width: 1200px) {
+
+    #left-image: {
+        width: 100%;
+    }
+}
+
+
 @media screen and (max-width: 870px) {
     #logo {
         font-size: 200%;
@@ -483,14 +491,17 @@ footer {
         clear: left;
         height: 600px;
     }
+}
 
-    @media screen and (max-width: 320px) {
-        #logo {
-            font-size: 75%;
-        }
+@media screen and (max-width: 320px) {
 
-        #menu {
-            font-size: 90%;
-        }
+    #logo {
+        font-size: 75%;
     }
+
+    #menu {
+        font-size: 90%;
+        letter-spacing: 3px;
+    }
+
 }
