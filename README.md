@@ -47,18 +47,23 @@ Site Goals:
 
 * Wireframes for mobile and desktop can be seen below:
    
+   * Wireframes for Home Page
   ![wireframesdesktophome](/assets/images/wireframes/wirehome.png)
 
   ![wireframesmobilehome](/assets/images/wireframes/wirehome2.png)
 
+   * Wireframes for Gallery page
   ![wireframesdesktopgallery](/assets/images/wireframes/wiregallery.png)
 
   ![wireframesmobilegallery](/assets/images/wireframes/wiregallery2.png)
-
+     
+   * Wireframes for Sign up page
   ![wireframesdesktopsignup](/assets/images/wireframes/wiresignup.png)
 
   ![wireframesmobilesignup](/assets/images/wireframes/wiresignup2.png)
 
+
+   * Wireframes for Thank you page
   ![wireframesdesktopthankyou](/assets/images/wireframes/wirethankyou.png)
 
   ![wireframesmobilethankyou](/assets/images/wireframes/wirethankyou2.png)
@@ -91,7 +96,8 @@ Site Goals:
 ![signupform](/assets/images/testing/signup1.png)
 
   * The Thankyou page will have thank you text confirming they have submitted the form.
-  * 
+
+![thankyou](/assets/images/testing/thankyou1.png)
 
 * Hover effect on the nav bar:
   * Indicates to the user the location of the mouse whilst navigating the menu
@@ -106,17 +112,14 @@ Site Goals:
 * Color Scheme:
   * The color scheme used was a very simple one. Keeping the background as white helps to highlight the areas where i wish to draw the users attention to on each page.
   * I have a used a shade of blue with a different opacity depending on how visible i want the image to be behind the text boxes or form.
-  
-
-  
-  * I have also used a shade of blue for the header on each page.
-  ![]()
-  * i have used 
+  ![headerblue](/assets/images/testing/headerblue.png) rgba(0, 170, 255, .5)
+  ![Formblue](/assets/images/testing/formblue.png) rgba(0, 170, 255, .96)
+  ![textcolor](/assets/images/testing/textcolor.png) #252525
 
 
 * IMAGES
   * I sourced several images for the home page, gallery and sign up page.
-  * There are a total of 16 images across the site, including one hero image and background image.
+  * There are a total of 16 images across the site, including one hero image and 2 background images.
   * All images have been compressed through [Tinypng](https://tinypng.com/)
   * There is also a video that can be found on the Gallery page.
 
@@ -137,8 +140,8 @@ Site Goals:
 * As a user, I want the site to infrom me of future walks:
   * I have achieved this by setting an informative bar at the bottom of the home page with the locations, times and dates for the next 3 monthly walks.
 * As a user, I want to see images related to the subject
-  * I included a Gallery section which includes multiple varied images and a video.
-  * On the Home page, I included a hero image as well as one small image above the reasons to join the walk
+  * I included a Gallery section which includes multiple varied images.
+  * On the Home page, I included a hero image as well as one small image above the reasons to join the walk. There is also a background image behind the times section at the bottom of the page.
 
 ## DEVICES
 
@@ -165,7 +168,7 @@ Site Goals:
 ## Validators
 
 * I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
-* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssv\homepage2.pngalidation.png) and [HTML screenshot](/assets/images/testing/htmlchecker.png)
+* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssvalidation.png) and [HTML screenshot](/assets/images/testing/htmlchecker.png)
 
 * See [HERE](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for the full report on CSS Validator
 * See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F) for the home page report on HTML Validator
