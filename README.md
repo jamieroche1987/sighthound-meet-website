@@ -48,22 +48,26 @@ Site Goals:
 * Wireframes for mobile and desktop can be seen below:
    
 * Wireframes for Home Page
+  
   ![wireframesdesktophome](/assets/images/wireframes/wirehome.png)
 
   ![wireframesmobilehome](/assets/images/wireframes/wirehome2.png)
 
- Wireframes for Gallery page
+ * Wireframes for Gallery page
+
   ![wireframesdesktopgallery](/assets/images/wireframes/wiregallery.png)
 
   ![wireframesmobilegallery](/assets/images/wireframes/wiregallery2.png)
      
-Wireframes for Sign up page
+ * Wireframes for Sign up page
+
   ![wireframesdesktopsignup](/assets/images/wireframes/wiresignup.png)
 
   ![wireframesmobilesignup](/assets/images/wireframes/wiresignup2.png)
 
 
- Wireframes for Thank you page
+ * Wireframes for Thank you page
+
   ![wireframesdesktopthankyou](/assets/images/wireframes/wirethankyou.png)
 
   ![wireframesmobilethankyou](/assets/images/wireframes/wirethankyou2.png)
@@ -85,7 +89,7 @@ Wireframes for Sign up page
   * This part of the home page will have text telling the user what the benefits are for coming on the monthly walks.
   ![homepage](/assets/images/testing/homepage3.png)
   * This is a informative bar at the bottom of the page alerting the users to the times, dates and locations of the next 3 meet ups.
-  ![homrpage](/assets/images/testing/homepage4.png)
+  ![homepage](/assets/images/testing/homepage4.png)
 
 
   * The Gallery has multiple images from the previous sighthound walks that have taken place. It also consists of a video at the bottom of the page
