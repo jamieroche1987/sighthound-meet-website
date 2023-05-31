@@ -9,7 +9,7 @@ Sighthounds go walkabout is a website designed to inform sighthound owners of a 
 
 ## FINAL DESIGN
 
-![Final project image home page]()
+![Final project image home page](/assets/images/testing/finaldesign.png) Am  i Responsive(https://amiresponsive.co.uk/)
 
 ## INITIAL IDEA CONCEPT
 
@@ -45,7 +45,7 @@ Site Goals:
 
 ## WIREFRAMES
 
-* Wireframes for mobile and desktop can be viewed here: ()
+* Wireframes for mobile and desktop can be seen below: 
 
 ## FEATURES
 
@@ -53,9 +53,9 @@ Site Goals:
   * 3 main pages, HOME,GALLERY,SIGN UP! and an additional THANKYOU page
   * Each page will have the same body layout, HEADER (TITLE), NAVBAR, MAIN CONTENT (TEXT AND IMAGES) and FOOTER (SOCIAL MEDIA ICONS/LINKS, COPYRIGHT)
 * Navigation bar:
-  img
+  <img src="testing/navbar.png">
 * Footer:
-* img
+  <img src="testing/footer.png>
 * Layout and content:
   * The Home page will have a hero image with text. It will then have a image with text stating reasons why to join the meet up.
   * The Gallery will have multiple images from the previous sighthound walks that have taken place
@@ -86,7 +86,7 @@ Site Goals:
 * IMAGES
   * I sourced several images for the home page, gallery and sign up page.
   * There are a total of 16 images across the site, including one hero image and background image.
-  * All images have been compressed through Tinypng.com.
+  * All images have been compressed through Tinypng.com. (https://tinypng.com/)
   * There is also a video that can be found on the Gallery page.
 
 
@@ -248,10 +248,11 @@ Site Goals:
 * 13 images have been taken from the Surrey Whippet Walk Facebook page[Facebook](https://www.facebook.com/groups/390438121528989)
 * The hero image and the times background image have been sourced from [Unsplash](https://unsplash.com/)
 * The video i sourced from [Shutterstock](https://www.shutterstock.com/)
+  
 
 ## ACKNOWLEDGEMENTS
 
 * My partner Runa Brandes who has taken the time to look and advice me on the areas that need improving or amending. Also putting up with my stress levels when things have got tough when doing this project. Thank you Runa for your contiuned support.
 * My mentor Alex for taking his time helping and guiding me in the right direction with his feedback, suggestions and queries as to why my code isnt working. Thank you Alex for your continued support and guidance.
 * The Code Institute Slack community who have been there to help and give suggestions and feedback.
-* Chris Williams for helping me resolve many issues i have encountered along the way with code input, layout issues, commit issues. Generally been some one who continues to help me undertand the error of my ways and points me in the right direction. Many thanks chris for being an ear when im in crisis and in need for some guidance as to how to resolve things.
+* Chris Williams for helping me resolve many issues i have encountered along the way with code, layout issues, commit issues. Generally been someone who continues to help me undertand the error of my ways and points me in the right direction. Many thanks chris for being an ear when im in crisis and in need for some guidance as to how to resolve things.
