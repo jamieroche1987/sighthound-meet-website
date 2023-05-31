@@ -53,9 +53,9 @@ Site Goals:
   * 3 main pages, HOME,GALLERY,SIGN UP! and an additional THANKYOU page
   * Each page will have the same body layout, HEADER (TITLE), NAVBAR, MAIN CONTENT (TEXT AND IMAGES) and FOOTER (SOCIAL MEDIA ICONS/LINKS, COPYRIGHT)
 * Navigation bar:
-  <img src="testing/navbar.png">
+  ![navbar](/assets/images/testing/navbar.png)
 * Footer:
-  <img src="testing/footer.png>
+  ![footer](/assets/images/testing/footer.png)
 * Layout and content:
   * The Home page will have a hero image with text. It will then have a image with text stating reasons why to join the meet up.
   * The Gallery will have multiple images from the previous sighthound walks that have taken place
@@ -68,7 +68,7 @@ Site Goals:
 * Sign up form:
   * Form validation requests the user to input the correct information in the input fields,
       This avoids the user sending illegible text/email.
-  * img
+  * ![signupform](/assets/images/testing/signupform.png)
 
 ## DESIGN
 
@@ -145,7 +145,7 @@ Site Goals:
 
 ## Home
 
-![homepage](/testing/homepagelighthouse.png)
+![homepage](/assets/images/testing/homepagelighthouse.png)
 
 ## Gallery
 
