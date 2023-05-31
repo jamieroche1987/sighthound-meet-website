@@ -1,20 +1,18 @@
 # PORTFOLIO PROJECT - 1
 
-# SIGHTHOUNDS GO WALKABOUT
+## SIGHTHOUNDS GO WALKABOUT
 
 ## SITE PURPOSE
 
 Sighthounds go walkabout is a website designed to inform sighthound owners of a walk that happens monthly
 
-* 
-
 ## FINAL DESIGN
 
-[finaldesign](finaldesign.png)
+img
 
 ## INITIAL IDEA CONCEPT
 
-My initial idea for the project was to create an informative website about a sighthound monthly walk. My target audience is anyone who is the owner of a sighthound in Surrey and the surrounding areas. I wanted to make the website easy to navigate around while also making the images speak to the user
+My initial idea for the project was to create an informative website about a sighthound monthly walk. My target audience is anyone who is the owner of a sighthound in Surrey and the surrounding areas. I wanted to make the website easy to navigate around while also making the images speak to the user.
 
 * The Features I wanted the project to have are:
 
@@ -25,7 +23,7 @@ My initial idea for the project was to create an informative website about a sig
 
 #
 
-# UX/UI
+## UX/UI
 
 * The site should be simple to navigate
 * The site should be easy to read, images should be clear without distorting or stretching
@@ -54,9 +52,9 @@ Site Goals:
   * 3 main pages, HOME,GALLERY,SIGN UP! and an additional THANKYOU page
   * Each page will have the same body layout, HEADER (TITLE), NAVBAR, MAIN CONTENT (TEXT AND IMAGES) and FOOTER (SOCIAL MEDIA ICONS/LINKS, COPYRIGHT)
 * Navigation bar:
-  [navbar](navbar.png)
+  img
 * Footer:
-* [footer](footer.png)
+* img
 * Layout and content:
   * The Home page will have a hero image with text. It will then have a image with text stating reasons why to join the meet up.
   * The Gallery will have multiple images from the previous sighthound walks that have taken place
@@ -69,22 +67,26 @@ Site Goals:
 * Sign up form:
   * Form validation requests the user to input the correct information in the input fields,
       This avoids the user sending illegible text/email.
-  * [signupform](signupform.png)
+  * img
 
 ## DESIGN
 
 * Color Scheme:
   * The color scheme used was a very simple one. Keeping the background as white helps to highlight the areas where i wish to draw the users attention to on each page.
   * I have a used a shade of blue with a different opacity depending on how visible i want the image to be behind the text boxes or form.
-  * [formblue] (formblue.png)
+  
+
+  
   * I have also used a shade of blue for the header on each page.
-  * [headerblue](headerblue.png)
+  * img
+  * i have used 
 
 
 * IMAGES
-  * I sourced several images for the home page, gallery and sign up page
+  * I sourced several images for the home page, gallery and sign up page.
   * There are a total of 16 images across the site, including one hero image and background image.
-  * All images have been compressed through Tinypng.com
+  * All images have been compressed through Tinypng.com.
+  * There is also a video that can be found on the Gallery page.
 
 
 * TYPOGRAPHY
@@ -92,7 +94,7 @@ Site Goals:
 
 #
 
-# TESTING
+## TESTING
 
 * The site has been tested through multiple tests on each individual page.
 
@@ -103,7 +105,7 @@ Site Goals:
 * As a user, I want the site to infrom me of future walks:
   * I have achieved this by setting an informative bar at the bottom of the home page with the locations, times and dates for the next 3 monthly walks.
 * As a user, I want to see images related to the subject
-  * I included a `Gallery section which includes multiple varied images
+  * I included a Gallery section which includes multiple varied images and a video.
   * On the Home page, I included a hero image as well as one small image above the reasons to join the walk
 
 ## DEVICES
@@ -131,10 +133,10 @@ Site Goals:
 ## Validators
 
 * I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
-* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](cssvalidation.png) and [HTML screenshot](htmlchecker.png)
+* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](testing/cssvalidation.png) and [HTML screenshot](testing/htmlchecker.png)
 
-* See [HERE]() for the full report on CSS Validator
-* See [HERE]() for the home page report on HTML Validator
+* See [HERE](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for the full report on CSS Validator
+* See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F) for the home page report on HTML Validator
 
 ## Lighthouse
 
@@ -142,19 +144,19 @@ Site Goals:
 
 ## Home
 
-![home page lighthouse](homepagelighthouse.png)
+![homepage](testing/homepagelighthouse.png)
 
 ## Gallery
 
-!img
+![gallery](testing/gallerylighthouse.png)
 
 ## Sign up!
 
-![sign up lighthouse](signuplighthouse.png)
+![signup](testing/signuplighthouse.png)
 
 ## Thankyou
 
-
+![thankyou](testing/thankyoulighthouse.png)
 
 ## Accessibility
 
@@ -163,7 +165,7 @@ Site Goals:
 
 ## SOLVED BUGS AND ERRORS
 
-* 
+* I had one error of ID Duplicated when i ran through the CSS validator which i have since corrected.
 
 ## UNSOLVED BUGS OR ERRORS
 
@@ -175,6 +177,7 @@ Site Goals:
 * Pages all load correctly on all device screen sizes
 * All Social media links work correctly and open on a new tab
 * All images load on each page as intended
+* The video on the gallery page loads as intended
 
 #
 
@@ -195,7 +198,7 @@ Site Goals:
   * Used for the social media links in the footer of each page
   * Used for the header on each page
   * Used on the thank you message on the thank you page
-  * Used on the form
+  * Used on the form page
   * Used on the reasons section header and sub headings 
 * CHROME Developer tools
   * For checking compatibilty, troubleshooting and editing code
@@ -222,7 +225,7 @@ Site Goals:
 5. Choose the branch in the drop down box, in this case MAIN
 6. Choose the directory in the next drop down box, in this case ROOT
 7. Then click SAVE
-8. It may take a few moments for the site to publish, but once live, the box at the top of the page with the site name will turn green and have a Green tick to the left of the link to the live site
+8. It may take a few moments for the site to publish, but once live, the box at the top of the page with the site name will turn GREEN and have a GREEN tick to the left of the link to the live site
 9. Another way to find the live site is to navigate to settings, on the left menu click on pages and this will get you to the same point.
 
 * These commands were used for version control during project:
@@ -237,19 +240,17 @@ Site Goals:
 * Font Awesome for the icons in the footer and throughout the site.
 * W3schools
 * Stack overflow
-* Code Institute's Love Running walkthrough project 
+* Code Institute's Love Running walkthrough project
 
-### IMAGES
+## IMAGES
 
-* 14 images have been taken from the Surrey Whippet Walk Facebook page.
-* The hero image was taken from Google images
-* The times background image was also sourced from Google images
+* 13 images have been taken from the Surrey Whippet Walk Facebook page[Facebook](https://www.facebook.com/groups/390438121528989)
+* The hero image and the times background image have been sourced from [Unsplash](https://unsplash.com/)
+* The video i sourced from [Shutterstock](https://www.shutterstock.com/)
 
 ## ACKNOWLEDGEMENTS
 
-* My partner who has taken time look and advice me on the areas that need improving or amending.
-* My mentor Alex for taking his time helping and guiding me in the right direction with his feedback and suggestions.
+* My partner Runa Brandes who has taken the time to look and advice me on the areas that need improving or amending. Also putting up with my stress levels when things have got tough when doing this project. Thank you Runa for your contiuned support.
+* My mentor Alex for taking his time helping and guiding me in the right direction with his feedback, suggestions and queries as to why my code isnt working. Thank you Alex for your continued support and guidance.
 * The Code Institute Slack community who have been there to help and give suggestions and feedback.
-
-
-
+* Chris Williams for helping me resolve many issues i have encountered along the way with code input, layout issues, commit issues. Generally been some one who continues to help me undertand the error of my ways and points me in the right direction. Many thanks chris for being an ear when im in crisis and in need for some guidance as to how to resolve things.
