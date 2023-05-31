@@ -133,7 +133,7 @@ Site Goals:
 ## Validators
 
 * I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
-* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](testing/cssvalidation.png) and [HTML screenshot](testing/htmlchecker.png)
+* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssvalidation.png) and [HTML screenshot](/assets/images/testing/htmlchecker.png)
 
 * See [HERE](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for the full report on CSS Validator
 * See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F) for the home page report on HTML Validator
@@ -144,7 +144,7 @@ Site Goals:
 
 ## Home
 
-![homepage](testing/homepagelighthouse.png)
+![homepage]()
 
 ## Gallery
 
