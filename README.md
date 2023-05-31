@@ -5,7 +5,7 @@
 ## SITE PURPOSE
 
 Sighthounds go walkabout is a website designed to inform sighthound owners of a walk that happens monthly
-[Here is a link to the final project](https://github.com/jamieroche1987/sighthound-meet-website)
+[Here is a link to the final project](https://jamieroche1987.github.io/sighthound-meet-website/)
 
 ## FINAL DESIGN
 
@@ -45,7 +45,25 @@ Site Goals:
 
 ## WIREFRAMES
 
-* Wireframes for mobile and desktop can be seen below: 
+* Wireframes for mobile and desktop can be seen below:
+   
+  ![wireframesdesktophome](/assets/images/wireframes/wirehome.png)
+
+  ![wireframesmobilehome](/assets/images/wireframes/wirehome2.png)
+
+  ![wireframesdesktopgallery](/assets/images/wireframes/wiregallery.png)
+
+  ![wireframesmobilegallery](/assets/images/wireframes/wiregallery2.png)
+
+  ![wireframesdesktopsignup](/assets/images/wireframes/wiresignup.png)
+
+  ![wireframesmobilesignup](/assets/images/wireframes/wiresignup2.png)
+
+  ![wireframesdesktopthankyou](/assets/images/wireframes/wirethankyou.png)
+
+  ![wireframesmobilethankyou](/assets/images/wireframes/wirethankyou2.png)
+
+
 
 ## FEATURES
 
@@ -66,7 +84,7 @@ Site Goals:
 
 
   * The Gallery has multiple images from the previous sighthound walks that have taken place. It also consists of a video at the bottom of the page
-
+ 
 
   * The Sign up page will have a form to include first name, last name, email address and radio buttons to select the dates you wish to join the meet as well as a submit button. It will also contain a background image.
   
