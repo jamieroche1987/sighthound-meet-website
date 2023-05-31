@@ -5,10 +5,11 @@
 ## SITE PURPOSE
 
 Sighthounds go walkabout is a website designed to inform sighthound owners of a walk that happens monthly
+[Here is a link to the final project](https://github.com/jamieroche1987/sighthound-meet-website)
 
 ## FINAL DESIGN
 
-img
+![Final project image home page]()
 
 ## INITIAL IDEA CONCEPT
 
@@ -44,7 +45,7 @@ Site Goals:
 
 ## WIREFRAMES
 
-* Wireframes for mobile and desktop can be viewed here: (img)
+* Wireframes for mobile and desktop can be viewed here: ()
 
 ## FEATURES
 
@@ -144,19 +145,19 @@ Site Goals:
 
 ## Home
 
-![homepage]()
+![homepage](/testing/homepagelighthouse.png)
 
 ## Gallery
 
-![gallery](testing/gallerylighthouse.png)
+![gallery](/assets/images/testing/gallerylighthouse.png)
 
 ## Sign up!
 
-![signup](testing/signuplighthouse.png)
+![signup](/assets/images/testing/signuplighthouse.png)
 
 ## Thankyou
 
-![thankyou](testing/thankyoulighthouse.png)
+![thankyou](/assets/images/testing/thankyoulighthouse.png)
 
 ## Accessibility
 
