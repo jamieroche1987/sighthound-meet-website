@@ -79,14 +79,14 @@ Site Goals:
 
   
   * I have also used a shade of blue for the header on each page.
-  * img
+  ![]()
   * i have used 
 
 
 * IMAGES
   * I sourced several images for the home page, gallery and sign up page.
   * There are a total of 16 images across the site, including one hero image and background image.
-  * All images have been compressed through Tinypng.com. (https://tinypng.com/)
+  * All images have been compressed through [Tinypng](https://tinypng.com/)
   * There is also a video that can be found on the Gallery page.
 
 
