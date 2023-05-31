@@ -57,10 +57,23 @@ Site Goals:
 * Footer:
   ![footer](/assets/images/testing/footer.png)
 * Layout and content:
-  * The Home page will have a hero image with text. It will then have a image with text stating reasons why to join the meet up.
-  * The Gallery will have multiple images from the previous sighthound walks that have taken place
+  * The Home page will have a hero image with a text box on it which will inform the user that the walks are monthly
+  ![homepage](/assets/images/testing/homepage1.png)
+  * This part of the home page will have text telling the user what the benefits are for coming on the monthly walks.
+  ![homepage](/assets/images/testing/homepage3.png)
+  * This is a informative bar at the bottom of the page alerting the users to the times, dates and locations of the next 3 meet ups.
+  ![homrpage](/assets/images/testing/homepage4.png)
+
+
+  * The Gallery has multiple images from the previous sighthound walks that have taken place. It also consists of a video at the bottom of the page
+
+
   * The Sign up page will have a form to include first name, last name, email address and radio buttons to select the dates you wish to join the meet as well as a submit button. It will also contain a background image.
+  
+![signupform](/assets/images/testing/signup1.png)
+
   * The Thankyou page will have thank you text confirming they have submitted the form.
+  * 
 
 * Hover effect on the nav bar:
   * Indicates to the user the location of the mouse whilst navigating the menu
@@ -134,7 +147,7 @@ Site Goals:
 ## Validators
 
 * I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
-* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssvalidation.png) and [HTML screenshot](/assets/images/testing/htmlchecker.png)
+* I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssv\homepage2.pngalidation.png) and [HTML screenshot](/assets/images/testing/htmlchecker.png)
 
 * See [HERE](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for the full report on CSS Validator
 * See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Fsighthound-meet-website%2F) for the home page report on HTML Validator
