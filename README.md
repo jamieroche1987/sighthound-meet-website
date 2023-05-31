@@ -47,23 +47,23 @@ Site Goals:
 
 * Wireframes for mobile and desktop can be seen below:
    
-   * Wireframes for Home Page
+* Wireframes for Home Page
   ![wireframesdesktophome](/assets/images/wireframes/wirehome.png)
 
   ![wireframesmobilehome](/assets/images/wireframes/wirehome2.png)
 
-   * Wireframes for Gallery page
+ Wireframes for Gallery page
   ![wireframesdesktopgallery](/assets/images/wireframes/wiregallery.png)
 
   ![wireframesmobilegallery](/assets/images/wireframes/wiregallery2.png)
      
-   * Wireframes for Sign up page
+Wireframes for Sign up page
   ![wireframesdesktopsignup](/assets/images/wireframes/wiresignup.png)
 
   ![wireframesmobilesignup](/assets/images/wireframes/wiresignup2.png)
 
 
-   * Wireframes for Thank you page
+ Wireframes for Thank you page
   ![wireframesdesktopthankyou](/assets/images/wireframes/wirethankyou.png)
 
   ![wireframesmobilethankyou](/assets/images/wireframes/wirethankyou2.png)
