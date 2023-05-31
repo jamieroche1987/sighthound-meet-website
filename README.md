@@ -68,7 +68,7 @@ Site Goals:
 * Sign up form:
   * Form validation requests the user to input the correct information in the input fields,
       This avoids the user sending illegible text/email.
-  * ![signupform](/assets/images/testing/signupform.png)
+  * ![signupform](/assets/images/testing/signup1.png)
 
 ## DESIGN
 
