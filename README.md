@@ -80,9 +80,14 @@ Site Goals:
   * 3 main pages, HOME,GALLERY,SIGN UP! and an additional THANKYOU page
   * Each page will have the same body layout, HEADER (TITLE), NAVBAR, MAIN CONTENT (TEXT AND IMAGES) and FOOTER (SOCIAL MEDIA ICONS/LINKS, COPYRIGHT)
 * Navigation bar:
+   The navigational bar has 3 links that take the users to different pages of the website
+
   ![navbar](/assets/images/testing/navbar.png)
+
 * Footer:
+   The Footer contains Social media links that take you to the relevant sites home webpage. It also contains the copyright information
   ![footer](/assets/images/testing/footer.png)
+
 * Layout and content:
   * The Home page will have a hero image with a text box on it which will inform the user that the walks are monthly
   ![homepage](/assets/images/testing/homepage1.png)
